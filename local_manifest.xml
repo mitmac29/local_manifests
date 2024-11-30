@@ -2,19 +2,19 @@
 <manifest>
 
  <remote name="suzy"
-          fetch="https://github.com/mitmac29" />
+          fetch="https://github.com/" />
 
  <!-- Trees -->
- <project path="device/xiaomi/lavender" name="lavender15" remote="suzy" revision="genA15" />
- <project path="vendor/xiaomi/lavender" name="vendor15" remote="suzy" revision="15" />
- <project path="kernel/xiaomi/sdm660" name="android_kernel_xiaomi_southwest-4.19" remote="suzy" revision="main-dynamic" />
- <project path="device/xiaomi/sdm660-common" name="android_device_xiaomi_sdm660-common" remote="suzy" revision="15" />
- <project path="vendor/xiaomi/sdm660-common" name="android_vendor_xiaomi_sdm660-common" remote="suzy" revision="15" />
- <project path="hardware/xiaomi" name="hardware_xiaomi" remote="suzy" revision="marble" />
- <project path="vendor/motorola-dolby" name="vendor_motorola-dolby" remote="suzy" revision="v1.3" />
+ <project path="device/xiaomi/lavender" name="mitmac29/lavender15" remote="suzy" revision="genA15" />
+ <project path="vendor/xiaomi/lavender" name="mitmac29/vendor15" remote="suzy" revision="15" />
+ <project path="kernel/xiaomi/sdm660" name="mitmac29/android_kernel_xiaomi_southwest-4.19" remote="suzy" revision="main-dynamic" />
+ <project path="device/xiaomi/sdm660-common" name="mitmac29/android_device_xiaomi_sdm660-common" remote="suzy" revision="15" />
+ <project path="vendor/xiaomi/sdm660-common" name="mitmac29/android_vendor_xiaomi_sdm660-common" remote="suzy" revision="15" />
+ <project path="hardware/xiaomi" name="mitmac29/hardware_xiaomi" remote="suzy" revision="marble" />
+ <project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby" remote="suzy" revision="v1.3" />
  
- <project path="hardware/qcom-caf/sdm660/media" name="android_hardware_qcom-caf_sdm660_media" remote="suzy" revision="XOS-15.0" />
- <project path="hardware/qcom-caf/sdm660/display" name="android_hardware_qcom-caf_sdm660_display" remote="suzy" revision="XOS-15.0" />
- <project path="hardware/qcom-caf/sdm660/audio" name="android_hardware_qcom-caf_sdm660_audio" remote="suzy" revision="XOS-15.0" />
+ <project path="hardware/qcom-caf/sdm660/media" name="mitmac29/android_hardware_qcom-caf_media" remote="suzy" revision="sdm660-4.19-12.2.1.r1" />
+ <project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_display" remote="suzy" revision="sdm660-4.19-12.2.1.r1" />
+ <project path="hardware/qcom-caf/sdm660/audio" name="mitmac29/android_hardware_qcom-caf_audio" remote="suzy" revision="lineage-22.0" />
   
 </manifest>
