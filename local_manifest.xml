@@ -11,7 +11,7 @@
  <!--project path="device/xiaomi/sdm660-common" name="mitmac29/android_device_xiaomi_sdm660-common.git" remote="mit" revision="15" clone-depth="1" />
  <!--project path="vendor/xiaomi/sdm660-common" name="mitmac29/android_vendor_xiaomi_sdm660-common.git" remote="mit" revision="15" clone-depth="1" />
  <!--project path="hardware/xiaomi" name="mitmac29/hardware_xiaomi.git" remote="mit" revision="marble" clone-depth="1" /-->
- <!--project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby.git" remote="mit" revision="v1.3" clone-depth="1" /-->
+ <project path="packages/apps/ViPER4AndroidFX" name="mitmac29/packages_apps_ViPER4AndroidFX-New" remote="mit" revision="udc" />
  
  <!--project path="hardware/qcom-caf/sdm660/media" name="mitmac29/android_hardware_qcom-caf_sdm660_media.git" remote="mit" revision="XOS-15.0" clone-depth="1" />
  <project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_sdm660_display.git" remote="mit" revision="XOS-15.0" clone-depth="1" />
