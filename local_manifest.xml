@@ -2,13 +2,13 @@
 <manifest>
 
        <remote name="gk"
-               fetch="https://github.com" />
+               fetch="https://github.com/mitmac29" />
 
  <!-- Trees -->
-<project path="device/xiaomi/lavender" name="mitmac29/device_xiaomi_lavender1.git" remote="gk" revision="los18" --depth=1 />
-<project path="vendor/xiaomi/lavender" name="mitmac29/vendor_xiaomi_lavender1.git" remote="gk" revision="11" --depth=1 />
-<project path="kernel/xiaomi/lavender" name="mitmac29/android_kernel_xiaomi_sdm660_44.git" remote="gk" revision="android-4.4-stable" --depth=1 />
-<project path="vendor/dolby" name="mitmac29/vendor_dolby.git" remote="gk" revision="dolby-1.0-d1" --depth=1 />
-<project path="packages/apps/ViPER4AndroidFX" name="miteshx07/packages_apps_ViPER4AndroidFX-New.git" remote="gk" revision="udc" --depth=1 />
+<project path="device/xiaomi/lavender" name="device_xiaomi_lavender1" remote="gk" revision="los18" --depth=1 />
+<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender1" remote="gk" revision="11" --depth=1 />
+<project path="kernel/xiaomi/lavender" name="android_kernel_xiaomi_sdm660_44" remote="gk" revision="android-4.4-stable" --depth=1 />
+<project path="vendor/dolby" name="vendor_dolby.git" remote="gk" revision="dolby-1.0-d1" --depth=1 />
+<project path="packages/apps/ViPER4AndroidFX" name="miteshx07/packages_apps_ViPER4AndroidFX-New.git" remote="github" revision="udc" --depth=1 />
  
 </manifest>
