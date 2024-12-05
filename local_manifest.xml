@@ -7,7 +7,7 @@
  <!-- Trees -->
 <project path="device/xiaomi/lavender" name="device_xiaomi_lavender1" remote="gk" revision="los18" />
 <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender1" remote="gk" revision="11" />
-<project path="kernel/xiaomi/lavender" name="sankernel" remote="gk" revision="lineage-21.0" />
+<project path="kernel/xiaomi/lavender" name="android_kernel_xiaomi_sdm660_44" remote="gk" revision="android-4.4-stable" />
 <project path="vendor/dolby" name="vendor_dolby" remote="gk" revision="dolby-1.0-d1" />
 <project path="packages/apps/ViPER4AndroidFX" name="V4A" remote="gk" revision="udc" />
  
