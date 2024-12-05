@@ -9,6 +9,6 @@
 <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender1" remote="gk" revision="11" />
 <project path="kernel/xiaomi/lavender" name="sankernel" remote="gk" revision="lineage-21.0" />
 <project path="vendor/dolby" name="vendor_dolby" remote="gk" revision="dolby-1.0-d1" />
-<project path="packages/apps/ViPER4AndroidFX" name="V4A" remote=gk" revision="udc" />
+<project path="packages/apps/ViPER4AndroidFX" name="V4A" remote="gk" revision="udc" />
  
 </manifest>
