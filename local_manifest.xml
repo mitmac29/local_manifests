@@ -5,10 +5,10 @@
                fetch="https://github.com/mitmac29" />
 
  <!-- Trees -->
-<project path="device/xiaomi/lavender" name="device_xiaomi_lavender1" remote="gk" revision="los18" />
-<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender1" remote="gk" revision="11" />
-<project path="kernel/xiaomi/lavender" name="android_kernel_xiaomi_sdm660_44" remote="gk" revision="android-4.4-stable" />
-<project path="vendor/dolby" name="vendor_dolby.git" remote="gk" revision="dolby-1.0-d1" />
-<project path="packages/apps/ViPER4AndroidFX" name="miteshx07/packages_apps_ViPER4AndroidFX-New.git" remote="github" revision="udc" />
+<project path="device/xiaomi/lavender" name="device_xiaomi_lavender1" remote="gk" revision="los18" --depth=1 />
+<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender1" remote="gk" revision="11" --depth=1 />
+<project path="kernel/xiaomi/lavender" name="sankernel" remote="gk" revision="lineage-21.0" --depth=1 />
+<project path="vendor/dolby" name="vendor_dolby.git" remote="gk" revision="dolby-1.0-d1" --depth=1 />
+<project path="packages/apps/ViPER4AndroidFX" name="miteshx07/packages_apps_ViPER4AndroidFX-New.git" remote="github" revision="udc" --depth=1 />
  
 </manifest>
