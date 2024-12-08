@@ -10,14 +10,12 @@
 <project path="kernel/xiaomi/sdm660" name="pix106/android_kernel_xiaomi_southwest-4.19" remote="ghub" revision="main-dynamic" />
 <project path="device/xiaomi/sdm660-common" name="mitmac29/android_device_xiaomi_sdm660-common" remote="ghub" revision="2by2" />
 <project path="vendor/xiaomi/sdm660-common" name="mitmac29/android_vendor_xiaomi_sdm660-common" remote="ghub" revision="15"  />
-<!--project path="packages/apps/ViPER4AndroidFX" name="mitmac29/packages_apps_ViperAndroidFX-Rising.git" remote="ghub" revision="fifteen" -->
           
 <remove-project name="platform/hardware/qcom-caf/sdm660/audio" />
 <remove-project name="platform/hardware/qcom-caf/sdm660/media />
-<remove-project name="platform/hardware/qcom-caf/sdm660/display" />
- 
+
 <project path="hardware/qcom-caf/sdm660/media" name="mitmac29/android_hardware_qcom-caf_media" remote="ghub" revision="lineage-22.0" />
-<project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_display" remote="ghub" revision="sdm660-4.19-12.2.1.r1"/>
+<project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_display" remote="ghub" revision="sdm660-4.19-12.2.1.r1" />
 <project path="hardware/qcom-caf/sdm660/audio" name="mitmac29/android_hardware_qcom-caf_audio" remote="ghub" revision="sdm660-4.19-12.2.1.r1" />
           
 </manifest>
