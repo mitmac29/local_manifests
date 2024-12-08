@@ -13,8 +13,8 @@
 <!--project path="packages/apps/ViPER4AndroidFX" name="mitmac29/packages_apps_ViperAndroidFX-Rising.git" remote="ghub" revision="fifteen" -->
           
 <remove-project name="platform/hardware/qcom-caf/sdm660/audio" />
-<remove-project name="platform/hardware/qcom-caf/sdm660display" />
-<remove-project name="platform/hardware/qcom-cafsdm660/display" />
+<remove-project name="platform/hardware/qcom-caf/sdm660/media />
+<remove-project name="platform/hardware/qcom-caf/sdm660/display" />
  
 <project path="hardware/qcom-caf/sdm660/media" name="mitmac29/android_hardware_qcom-caf_media" remote="ghub" revision="lineage-22.0" />
 <project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_display" remote="ghub" revision="sdm660-4.19-12.2.1.r1"/>
