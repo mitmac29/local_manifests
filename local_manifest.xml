@@ -11,9 +11,9 @@
 <project path="device/xiaomi/sdm660-common" name="mitmac29/android_device_xiaomi_sdm660-common" remote="ghub" revision="2by2" />
 <project path="vendor/xiaomi/sdm660-common" name="mitmac29/android_vendor_xiaomi_sdm660-common" remote="ghub" revision="15"  />
           
-<remove-project name="hardware/qcom-caf/sdm660/audio" />
-<remove-project name="hardware/qcom-caf/sdm660/media" />
-<remove-project name="hardware/qcom-caf/sdm660/display" />
+<remove-project name="android/hardware/qcom-caf/sdm660/audio" />
+<remove-project name="android/hardware/qcom-caf/sdm660/media" />
+<remove-project name="android/hardware/qcom-caf/sdm660/display" />
           
 <project path="hardware/qcom-caf/sdm660/media" name="mitmac29/android_hardware_qcom-caf_media" remote="ghub" revision="lineage-22.0" />
 <project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_display" remote="ghub" revision="sdm660-4.19-12.2.1.r1" />
