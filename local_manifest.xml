@@ -17,7 +17,7 @@
 <remove-project name="platform/hardware/qcom/display" />
  
 <project path="hardware/qcom-caf/sdm660/media" name="mitmac29/android_hardware_qcom-caf_media" remote="ghub" revision="lineage-22.0" />
-<project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_display" remote="ghub" revision="XOS-15.0" />
-<project path="hardware/qcom-caf/sdm660/audio" name="mitmac29/android_hardware_qcom-caf_audio" remote="ghub" revision="XOS-15.0" />
- 
+<project path="hardware/qcom-caf/sdm660/display" name="mitmac29/android_hardware_qcom-caf_display" remote="ghub" revision="sdm660-4.19-12.2.1.r1"/>
+<project path="hardware/qcom-caf/sdm660/audio" name="mitmac29/android_hardware_qcom-caf_audio" remote="ghub" revision="sdm660-4.19-12.2.1.r1" />
+          
 </manifest>
