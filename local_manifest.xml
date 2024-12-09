@@ -10,7 +10,7 @@
 <project path="vendor/xiaomi/lavender" name="pix106/android_vendor_xiaomi_lavender" remote="gk" revision="11-4.19" />
 <project path="vendor/xiaomi/sdm660-common" name="pix106/android_vendor_xiaomi_sdm660-common" remote="gk" revision="11.4.19-test-up" />
 <project path="kernel/xiaomi/sdm660" name="pix106/android_kernel_xiaomi_southwest-4.19" remote="gk" revision="main" />
-<project path="vendor/dolby" name="vendor_dolby" remote="gk" revision="dolby-1.0-d1" />
-<project path="packages/apps/ViPER4AndroidFX" name="V4A" remote="gk" revision="udc" />
+<project path="vendor/dolby" name="mitmac29/vendor_dolby" remote="gk" revision="dolby-1.0-d1" />
+<project path="packages/apps/ViPER4AndroidFX" name="mitmac29/packages_apps_ViPER4AndroidFX-Rising" remote="gk" revision="fifteen" />
  
 </manifest>
