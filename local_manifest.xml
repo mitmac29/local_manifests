@@ -5,12 +5,12 @@
                fetch="https://github.com" />
 
  <!-- Trees -->
-<project path="device/xiaomi/lavender" name="pix106/android_device_xiaomi_lavender" remote="gk" revision="lineage-18.1-4.19" clone-depth="1" />
-<project path="device/xiaomi/sdm660-common" name="pix106/android_device_xiaomi_sdm660-common" remote="gk" revision="11-4.19-test-up" clone-depth="1" />
-<project path="vendor/xiaomi/lavender" name="pix106/android_vendor_xiaomi_lavender" remote="gk" revision="11-4.19" clone-depth="1" />
-<project path="vendor/xiaomi/sdm660-common" name="pix106/android_vendor_xiaomi_sdm660-common" remote="gk" revision="11.4.19-test-up" clone-depth="1" />
-<project path="kernel/xiaomi/sdm660" name="pix106/android_kernel_xiaomi_southwest-4.19" remote="gk" revision="main" clone-depth="1" />
-<project path="vendor/dolby" name="mitmac29/vendor_dolby" remote="gk" revision="dolby-1.0-d1" clone-depth="1" />
-<project path="packages/apps/ViPER4AndroidFX" name="mitmac29/packages_apps_ViPER4AndroidFX-Rising" remote="gk" revision="fifteen" clone-depth="1" />
+<project path="device/xiaomi/lavender" name="pix106/android_device_xiaomi_lavender.git" remote="gk" revision="lineage-18.1-4.19" clone-depth="1" />
+<project path="device/xiaomi/sdm660-common" name="pix106/android_device_xiaomi_sdm660-common.git" remote="gk" revision="11-4.19-test-up" clone-depth="1" />
+<project path="vendor/xiaomi/lavender" name="pix106/android_vendor_xiaomi_lavender.git" remote="gk" revision="11-4.19" clone-depth="1" />
+<project path="vendor/xiaomi/sdm660-common" name="pix106/android_vendor_xiaomi_sdm660-common.git" remote="gk" revision="11.4.19-test-up" clone-depth="1" />
+<project path="kernel/xiaomi/sdm660" name="pix106/android_kernel_xiaomi_southwest-4.19.git" remote="gk" revision="main" clone-depth="1" />
+<project path="vendor/dolby" name="mitmac29/vendor_dolby.git" remote="gk" revision="dolby-1.0-d1" clone-depth="1" />
+<project path="packages/apps/ViPER4AndroidFX" name="mitmac29/packages_apps_ViPER4AndroidFX-Rising.git" remote="gk" revision="fifteen" clone-depth="1" />
  
 </manifest>
