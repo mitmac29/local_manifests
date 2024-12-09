@@ -10,7 +10,7 @@
 <project path="vendor/xiaomi/lavender" name="vendor" remote="p" revision="LOS18.1-419" clone-depth="1" />
 <project path="vendor/xiaomi/sdm660-common" name="vendor_sdm660-common" remote="p" revision="LOS18.1-419" clone-depth="1" />
 <project path="kernel/xiaomi/sdm660" name="android_kernel_xiaomi_southwest-4.19.git" remote="p" revision="main" clone-depth="1" />
-<project path="vendor/motorola-dolby" name="vendor_motorola-dolby" remote="p" revision="dolby-1.0-d1" clone-depth="1" />
+<project path="vendor/motorola-dolby" name="vendor_motorola-dolby" remote="p" revision="v1.3" clone-depth="1" />
 <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX-Rising" remote="p" revision="fifteen" clone-depth="1" />
  
 </manifest>
