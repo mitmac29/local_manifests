@@ -8,10 +8,10 @@
                fetch="https://github.com" />
        
  <!-- Trees -->
-<project path="device/xiaomi/lavender" name="android_device_xiaomi_lavender-arrow.git" remote="gk" revision="crdroidA11" clone-depth="1" />
-<project path="device/xiaomi/sdm660-common" name="android_device_xiaomi_sdm660-common-arrow.git" remote="gk" revision="crdroidA11" clone-depth="1" />
-<project path="vendor/xiaomi/lavender" name="android_vendor_xiaomi_lavender-arrow.git" remote="gk" revision="crdroidA11" clone-depth="1" />
-<project path="vendor/xiaomi/sdm660-common" name="android_vendor_xiaomi_sdm660-common-arrow.git" remote="gk" revision="crdroidA11" clone-depth="1" />
+<project path="device/xiaomi/lavender" name="PE11.git" remote="gk" revision="crdroidA11" clone-depth="1" />
+<project path="device/xiaomi/sdm660-common" name="PE11COMMON.git" remote="gk" revision="crdroidA11" clone-depth="1" />
+<project path="vendor/xiaomi/lavender" name="vendorPEA11.git" remote="gk" revision="crdroidA11" clone-depth="1" />
+<project path="vendor/xiaomi/sdm660-common" name="VENDORDTCOMMON.git" remote="gk" revision="crdroidA11" clone-depth="1" />
 <project path="kernel/xiaomi/sdm660" name="user-why-red/android_kernel_xiaomi_sdm660_44.git" remote="why" revision="android-4.4-stable" clone-depth="1" />
 <project path="vendor/dolby" name="vendor_dolby.git" remote="gk" revision="dolby-1.0-d1" clone-depth="1" />
 <project path="packages/apps/ViPER4AndroidFX" name="TogoFire/packages_apps_ViPER4AndroidFX.git" remote="why" revision="v4a" clone-depth="1" />
