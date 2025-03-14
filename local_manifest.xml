@@ -15,5 +15,8 @@
 <project path="kernel/xiaomi/sdm660" name="Sa-Sajjad/kernel_xiaomi_lavender-4.19" remote="why" revision="15.0" clone-depth="1" />
 <project path="vendor/dolby" name="vendor_dolby.git" remote="gk" revision="dolby-1.0-d1" clone-depth="1" />
 <project path="packages/apps/ViPER4AndroidFX" name="TogoFire/packages_apps_ViPER4AndroidFX.git" remote="why" revision="v4a" clone-depth="1" />
- 
+<project path="hardware/qcom-caf/sdm660/audio" name="raiyanbinmohsin/android_hardware_qcom_audio" remote="why" revision="sdm660-4.19" clone-depth="1" />
+<project path="hardware/qcom-caf/sdm660/media" name="raiyanbinmohsin/android_hardware_qcom_media" remote="why" revision="sdm660-4.19" clone-depth="1" />
+<project path="hardware/qcom-caf/sdm660/display" name="raiyanbinmohsin/android_hardware_qcom_display" remote="why" revision="sdm660-4.19" clone-depth="1" />
+
 </manifest>
